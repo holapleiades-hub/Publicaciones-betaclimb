@@ -4,7 +4,7 @@ Duración: 95,4 s · vertical 1080×1920 · 60 fps · archivo: `15-apretar-solta
 
 Palabras clave principales: antebrazos cargados, escalar, resistencia, umbral de oclusión, riego, reposos, sacudir.
 
-Propuesta en Metricool (como borrador, pendiente de confirmar): jueves 22/10/2026 · YouTube 16:00 · TikTok 18:00 · Instagram 21:00. Sin Facebook.
+Programado en Metricool: miércoles 21/10/2026 a las 21:00 en Instagram, TikTok y YouTube (decisión del usuario). Sin Facebook. Vídeo: render final del visor (dedos nuevos), comprimido a CRF 23 para GitHub.
 
 ## Análisis (reels del 9 al 17 de octubre, datos de Metricool)
 
@@ -30,7 +30,7 @@ Propuesta en Metricool (como borrador, pendiente de confirmar): jueves 22/10/202
 
 ---
 
-## TikTok · 18:00
+## TikTok · 21:00
 
 **Título:** Por qué se cargan los antebrazos al escalar
 
@@ -38,7 +38,7 @@ Por qué se cargan los antebrazos al escalar 🧗 ¿Tres movimientos y ya no pue
 
 ---
 
-## YouTube (Short) · 16:00
+## YouTube (Short) · 21:00
 
 **Título:** ¿Por qué se cargan los antebrazos al escalar?
 
