@@ -72,3 +72,13 @@ Betaclimblab: física, animación y entrenamiento para entender cada movimiento 
 ¿Llegas a la presa y se te escapa? 🧗 Te falta fuerza de contacto (RFD): máxima fuerza en los dedos en milésimas de segundo. 3 niveles de campus + su progresión. Entrena 3-5 reps × 3-5 series, descansa 3-5 min y para si pierdes velocidad o notas bombeo. ¿Hasta qué nivel llegas tú?
 
 #escalada #campusboard #entrenamientoescalada #fuerzadecontacto #boulder #climbing #climbingtiktok #escaladatiktok #fuerzadededos #betaclimblab
+
+---
+
+## Fuentes
+
+- Stien, N., Pedersen, H., Vereide, V. A., Saeterbakken, A. H., Hermans, E., Kalland, J., Schoenfeld, B. J., & Andersen, V. (2021). Effects of two vs. four weekly campus board training sessions on bouldering performance and climbing-specific tests in advanced and elite climbers. Journal of Sports Science and Medicine, 20(3), 438–447. https://doi.org/10.52082/jssm.2021.438
+- Vereide, V., Andersen, V., Hermans, E., Kalland, J., Saeterbakken, A. H., & Stien, N. (2022). Differences in upper-body peak force and rate of force development in male intermediate, advanced, and elite sport climbers. Frontiers in Sports and Active Living, 4, 888061. https://doi.org/10.3389/fspor.2022.888061
+- Maffiuletti, N. A., Aagaard, P., Blazevich, A. J., Folland, J., Tillin, N., & Duchateau, J. (2016). Rate of force development: physiological and methodological considerations. European Journal of Applied Physiology, 116(6), 1091–1116. https://doi.org/10.1007/s00421-016-3346-6
+- Mersmann, F., Bohm, S., & Arampatzis, A. (2017). Imbalances in the development of muscle and tendon as risk factor for tendinopathies in youth athletes: a review of current evidence and concepts of prevention. Frontiers in Physiology, 8, 987. https://doi.org/10.3389/fphys.2017.00987
+- American Orthopaedic Society for Sports Medicine. (2025). STOP Sports Injuries tip sheet: Rock climbing. https://www.sportsmed.org/uploads/main/files/general/Resources/STOP-Tip-Sheets/Sports-Specific/2026-Rock-Climbing.pdf
