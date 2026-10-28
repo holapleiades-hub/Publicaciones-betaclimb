@@ -28,7 +28,11 @@ Programación: miércoles 28/10/2026 por la noche en Instagram, TikTok y YouTube
 
 Cómo coger una regleta sin castigar las poleas de tus dedos 🧗 ¿Arqueas todas las regletas por costumbre? ¿Cuál usas tú más? 👇
 
-📚 Fuentes: Schweizer (2001) · Vigouroux et al. (2006) · Schreiber et al. (2015) · Schöffl et al. (2003)
+📚 Fuentes
+· Schweizer, A. (2001). Biomechanical properties of the crimp grip position in rock climbers. Journal of Biomechanics, 34, 217-223.
+· Vigouroux, L. et al. (2006). Estimation of finger muscle tendon tensions and pulley forces during specific sport-climbing grip techniques. Journal of Biomechanics, 39, 2583-2592.
+· Schreiber, T. et al. (2015). Connective tissue adaptations in the fingers of performance sport climbers. European Journal of Sport Science, 15, 696-702.
+· Schöffl, V. et al. (2003). Pulley injuries in rock climbers. Wilderness & Environmental Medicine, 14, 94-100.
 
 #escalada #poleas #dedos
 
