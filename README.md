@@ -12,5 +12,6 @@ Cada carpeta `NN-nombre/` tiene el `.mp4` y `publicacion.md` (título, descripci
 | `10-factor-de-caida` | El factor de caída (versión posterior) |
 | `11-grados` | ¿Qué significa 6a, 7b o 9c? |
 | `12-campus` | Fuerza de contacto: 3 ejercicios de campus |
+| `18-poleas` | Arqueo, semiarqueo o extensión: tus dedos y sus poleas |
 
 Este es el único repositorio de publicaciones (el antiguo `betaclim_pub` se ha unificado aquí).
