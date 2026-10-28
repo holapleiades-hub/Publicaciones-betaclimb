@@ -4,7 +4,7 @@ Duración: 116,1 s · vertical 1080×1920 · 60 fps · archivo: `18-poleas.mp4` 
 
 Palabras clave principales: arqueo escalada, poleas dedos escalada, lesión de polea A2, semiarqueo, regletas.
 
-Programación: miércoles 28/10/2026 por la noche en Instagram, TikTok y YouTube (sin Facebook).
+Programado en Metricool el miércoles 28/10/2026: TikTok 21:35 · YouTube 21:40 · Instagram 22:00 (mejor hora de Instagram del día, 21-22 h; TikTok y YouTube ya habían pasado su pico). Sin Facebook.
 
 ---
 
