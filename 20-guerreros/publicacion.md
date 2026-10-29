@@ -2,7 +2,7 @@
 
 Duración: 98,3 s · vertical 1080×1920 · 60 fps · archivo: `20-guerreros.mp4` (render del visor, CRF 21)
 
-Estado: **aprobado por Javi (29/10/2026)**. Falta que Cristian decida cuándo y cómo publicarlo. Sin programar.
+Estado: aprobado por Javi; programado el jueves 29/10/2026: TikTok 21:00 · YouTube 21:05 · Instagram 21:15 (mejor hora de Instagram del día, 21 h). Sin Facebook.
 
 Palabras clave: Guerreros de la roca, Arno Ilgner, entrenamiento mental escalada, miedo a caer, libros de escalada.
 
