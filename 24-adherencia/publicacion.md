@@ -1,6 +1,6 @@
 # Pies en adherencia: pisar sin presa 🧗👟
 
-Vertical 1080×1920 · 60 fps · ~48 s · archivo: `24-adherencia.mp4` (render del visor en la nube, CRF 21)
+Vertical 1080×1920 · 60 fps · 51 s · archivo: `24-adherencia.mp4` (render del visor en la nube, CRF 21)
 
 Estado: sin programar (pendiente de que lo decidas). Sin Facebook.
 

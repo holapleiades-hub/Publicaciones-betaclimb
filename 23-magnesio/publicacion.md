@@ -1,6 +1,6 @@
 # Magnesio: ¿más es mejor? 🧂🧗
 
-Vertical 1080×1920 · 60 fps · ~57 s · archivo: `23-magnesio.mp4` (render del visor en la nube, CRF 21)
+Vertical 1080×1920 · 60 fps · 59,5 s · archivo: `23-magnesio.mp4` (render del visor en la nube, CRF 21)
 
 Estado: sin programar (pendiente de que lo decidas). Sin Facebook.
 
