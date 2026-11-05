@@ -1,6 +1,6 @@
 # Magnesio: ¿más es mejor? 🧂🧗
 
-Vertical 1080×1920 · 60 fps · 59,5 s · archivo: `23-magnesio.mp4` (render del visor en la nube, CRF 21)
+Vertical 1080×1920 · 60 fps · 61,3 s · archivo: `23-magnesio.mp4` (render del visor en la nube, CRF 21)
 
 Estado: sin programar (pendiente de que lo decidas). Sin Facebook.
 
@@ -38,7 +38,7 @@ Cómo usar el magnesio en escalada 🧂 Más no siempre es mejor: capa fina, sac
 
 Magnesio en escalada: qué hace de verdad y por qué más no siempre es mejor.
 
-El magnesio seca el sudor y ayuda a que la piel agarre. Con una capa fina se agarra mejor; si sobra polvo, puede quedarse entre el dedo y la presa. En un estudio sobre caliza y arenisca, el magnesio aumentó la fricción alrededor de un 20 %; en otro, aguantaron colgados 63 s con magnesio frente a 49 s sin él. El efecto depende de la roca, la humedad y tu piel.
+El magnesio seca el sudor. Con una capa fina la piel suele agarrar mejor; si sobra polvo, puede quedarse entre el dedo y la presa y hacer que deslice. En un estudio sobre caliza y arenisca (Amca 2012), el magnesio aumentó la fricción un 19-22 %; en otro (Kilgas 2016), aguantaron colgados 63 s con magnesio frente a 49 s sin él. Pero otro estudio (Li 2001) encontró lo contrario: la fricción bajó. El efecto depende de la roca, la humedad y tu piel (Clarke 2026).
 
 📚 Fuentes
 · Li, F. X., Margetts, S., Fowler, I. (2001). Use of chalk in rock climbing: sine qua non or myth? J Sports Sci 19(6). https://doi.org/10.1080/026404101300149375
