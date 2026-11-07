@@ -1,5 +1,7 @@
 # Chapar bien: al revés y en Z 🪢
 
+> **DESCARTADO por el usuario (2026-11-07): no publicar.** El contenido tenía errores y faltaba explicar los tipos de mosquetones.
+
 Vertical 1080×1920 · 60 fps · ~63 s · archivo: `26-chapar.mp4` (render del visor en la nube, CRF 21)
 
 Estado: sin programar. Sin Facebook. Música: la del reel 22 (sin créditos de ElevenLabs para generar una nueva).
