@@ -14,5 +14,7 @@ Cada carpeta `NN-nombre/` tiene el `.mp4` y `publicacion.md` (título, descripci
 | `12-campus` | Fuerza de contacto: 3 ejercicios de campus |
 | `18-poleas` | Arqueo, semiarqueo o extensión: tus dedos y sus poleas |
 | `20-guerreros` | Guerreros de la roca: el libro sobre la cabeza en escalada |
+| `28-brazos-estirados` | Brazos estirados: cuelga del esqueleto (sin voz) |
+| `29-leer-la-via` | Lee la vía antes de subir (sin voz) |
 
 Este es el único repositorio de publicaciones (el antiguo `betaclim_pub` se ha unificado aquí).
