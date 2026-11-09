@@ -18,3 +18,7 @@ Cada carpeta `NN-nombre/` tiene el `.mp4` y `publicacion.md` (título, descripci
 | `29-leer-la-via` | Lee la vía antes de subir (sin voz) |
 
 Este es el único repositorio de publicaciones (el antiguo `betaclim_pub` se ha unificado aquí).
+
+
+## Apartados (2026-11-09)
+Los reels 22, 24, 25, 28 y 29 quedan **apartados, sin publicar**: se van a rehacer con el personaje y el motor nuevos. No programar.
