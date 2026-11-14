@@ -2,8 +2,8 @@
 
 - Palabra clave principal: **altura en escalada** · secundaria: **girar la cadera**
 - Ángulo: pregunta que divide (altos contra bajos) + dato que sorprende (Mermier 2000) · técnica → petición única: mandárselo al más alto del grupo.
-- Archivo: `altura-en-escalada-giro-de-cadera.mp4` · Portada: la mano que se queda a un palmo con la pregunta escrita.
-- Aviso: el vídeo va **sin voz** (música y subtítulos); Javi no lo ha revisado.
+- Archivo: `altura-en-escalada-giro-de-cadera-voz.mp4` · Portada: la mano que se queda a un palmo con la pregunta escrita.
+- Voz de Álvaro (eleven_v3), 63 s. Javi no lo ha revisado.
 
 ## Instagram
 ```
