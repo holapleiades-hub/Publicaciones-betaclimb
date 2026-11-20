@@ -5,7 +5,7 @@
 - Ángulo: sketch de humor, sin estudio · petición única: «Etiqueta a ese amigo» (igual que la voz).
 - Archivo: `beta-en-escalada-todos-tenemos-ese-amigo.mp4` · Portada: el amigo con palomitas señalando la presa lejana, con «TODOS TENEMOS ESE AMIGO…».
 - Voz de Álvaro (eleven_v3) de narrador y del amigo (tono subido), 41 s.
-- Programado (20-11-2026, hora de Madrid): el mismo día por petición del usuario.
+- Programado hoy (20-11-2026, hora de Madrid), por petición del usuario: Instagram 21:35 · TikTok 21:37 · YouTube 21:39.
 
 ## Instagram
 ```
