@@ -2,15 +2,14 @@
 
 - Palabra clave principal: **calentamiento para escalar** · secundaria: **cómo calentar antes de escalar** (y «calentar dedos» en descripción y etiquetas)
 - Por qué esta: es como lo busca quien quiere una rutina y encaja en el título de YouTube «Tema: beneficio». Gancho (usuario, 2026-11-26): «Hoy te enseño a calentar antes de escalar.»; titular en pantalla «CÓMO CALENTAR PARA ESCALAR».
-- v2 (usuario, 2026-11-26: «el calentamiento es muy básico»): siete pasos de Eric Hörst a partir de la síntesis que pasó el usuario (podcast Training for Climbing n.º 67, entrevista con Jared Vagy 2022, material de fingerboard). **Petición de comentarios igual que la voz a mitad del reel**: «Vamos por la mitad: ¿cómo calientas tú? Cuéntanoslo en los comentarios 👇». Petición única de envío: «Mándaselo a quien empieza por lo más difícil». Pregunta de dos bandos: «¿Tú haces los siete o te saltas alguno?».
+- v2 (usuario, 2026-11-26: «el calentamiento es muy básico»): siete pasos de Eric Hörst a partir de la síntesis que pasó el usuario (podcast Training for Climbing n.º 67, entrevista con Jared Vagy 2022, material de fingerboard). **Petición de comentarios igual que la voz a mitad del reel**: «Vamos por la mitad: ¿cómo calientas tú? Cuéntanoslo en los comentarios 👇». Petición única de envío: «Mándaselo a quien calienta con dos bloques y ya». Pregunta de dos bandos: «¿Tú haces los siete o te saltas alguno?».
 - Rigor: no se dice que calentar evite lesiones de forma medida. El dato del campus es de una muestra pequeña de escaladores avanzados y mide potencia, no lesiones. Los siete pasos son bloques que Hörst ajusta a cada sesión, no una tabla fija.
 - Archivo: `calentamiento-escalada-siete-pasos.mp4` · Portada: el escalador tirando de la regleta con los dedos fríos en azul y la mano que se escapa, con «CÓMO CALENTAR PARA ESCALAR».
 - Variable en prueba R4: al publicar, apuntar `cifra_antes_6s: false` en `agentes/entrenamiento/resultados.jsonl`.
 
 ## Instagram
 ```
-¿Cómo calentar antes de escalar? Tu calentamiento para escalar, en los siete pasos de Eric Hörst 🔥
-Si empiezas por lo más difícil, tus dedos no están listos. Les pasa como a ti al correr: el primer minuto cuesta, y luego entran.
+¿Calientas con dos bloques fáciles y ya? Te faltan seis pasos: tu calentamiento para escalar, como lo hace Eric Hörst 🔥
 1️⃣ Entra en calor con movimientos fáciles, de menos a más (travesía o cazos grandes)
 2️⃣ Movilidad: hombros, caderas, muñecas y dedos, sin forzar
 3️⃣ Activa lo de escalar: unas dominadas fáciles y colgarte de presas grandes con los pies en el suelo
@@ -20,10 +19,10 @@ Si empiezas por lo más difícil, tus dedos no están listos. Les pasa como a ti
 7️⃣ Unas series cortas de tronco
 La señal: acabas más suelto y coordinado, nunca cansado. Y si hoy vas al límite, dedícale más tiempo.
 Lo midieron con escaladores avanzados: tras cinco dominadas con peso, en el campus llegaban unos seis centímetros más arriba.
-A lo difícil no se llega en frío. Primero calienta, luego aprieta.
+Dos bloques fáciles no bastan. Primero calienta, luego aprieta.
 ¿Cómo calientas tú? Cuéntanoslo en los comentarios 👇
 ¿Tú haces los siete o te saltas alguno?
-Mándaselo a quien empieza por lo más difícil.
+Mándaselo a quien calienta con dos bloques y ya.
 
 📚 Fuentes
 · Eric J. Hörst, podcast Training for Climbing n.º 67, «The Perfect Warm-up Protocol» (2021): los siete pasos.
