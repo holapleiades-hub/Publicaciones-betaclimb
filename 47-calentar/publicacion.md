@@ -5,6 +5,8 @@
 - v2 (usuario, 2026-11-26: «el calentamiento es muy básico»): siete pasos de Eric Hörst a partir de la síntesis que pasó el usuario (podcast Training for Climbing n.º 67, entrevista con Jared Vagy 2022, material de fingerboard). **Petición de comentarios igual que la voz a mitad del reel**: «Vamos por la mitad: ¿cómo calientas tú? Cuéntanoslo en los comentarios 👇». Petición única de envío: «Mándaselo a quien calienta con dos bloques y ya». Pregunta de dos bandos: «¿Tú haces los siete o te saltas alguno?».
 - Rigor: no se dice que calentar evite lesiones de forma medida. El dato del campus es de una muestra pequeña de escaladores avanzados y mide potencia, no lesiones. Los siete pasos son bloques que Hörst ajusta a cada sesión, no una tabla fija.
 - Archivo: `calentamiento-escalada-siete-pasos.mp4` · Portada: el escalador tirando de la regleta con los dedos fríos en azul y la mano que se escapa, con «CÓMO CALENTAR PARA ESCALAR».
+- **Publicación (2026-11-27, viernes, hora de Madrid)**: YouTube 15:07 · TikTok 18:55 · Instagram 21:04. Horas que ya funcionaron en cada red (ver `docs/seo_aprendido.md` del repo de producción).
+- **Prueba de texto de cada red** (registro en `docs/seo_aprendido.md`): Instagram → cierre doble «Guárdalo para tu próxima sesión y mándaselo a…» (como el de poleas) en vez de una sola petición; TikTok → primera línea = la pregunta del gancho en vez de la frase de búsqueda; YouTube → título en forma de búsqueda «Cómo calentar antes de escalar: …» en vez de «Calentamiento para escalar: …».
 - Variable en prueba R4: al publicar, apuntar `cifra_antes_6s: false` en `agentes/entrenamiento/resultados.jsonl`.
 
 ## Instagram
@@ -21,8 +23,7 @@ La señal: acabas más suelto y coordinado, nunca cansado. Y si hoy vas al lími
 Lo midieron con escaladores avanzados: tras cinco dominadas con peso, en el campus llegaban unos seis centímetros más arriba.
 Dos bloques fáciles no bastan. Primero calienta, luego aprieta.
 ¿Cómo calientas tú? Cuéntanoslo en los comentarios 👇
-¿Tú haces los siete o te saltas alguno?
-Mándaselo a quien calienta con dos bloques y ya.
+Guárdalo para tu próxima sesión y mándaselo a quien calienta con dos bloques y ya.
 
 📚 Fuentes
 · Eric J. Hörst, podcast Training for Climbing n.º 67, «The Perfect Warm-up Protocol» (2021): los siete pasos.
@@ -30,6 +31,7 @@ Mándaselo a quien calienta con dos bloques y ya.
 · Lattice Training y ClimbStrong: calentar de menos a más y potenciar sin fatiga.
 · Sas-Nowosielski y Kandzia (2020), Frontiers in Psychology: dominadas con lastre antes de una prueba de campus.
 Límite: el estudio es una muestra pequeña (16 escaladores avanzados) y mide potencia, no lesiones. El calentamiento se ajusta a cada sesión; si hay dolor o lesión, no se arregla calentando más.
+Voz y música generadas con IA.
 
 #escalada #calentamientoescalada #entrenamientoescalada
 ```
@@ -37,18 +39,19 @@ Texto alternativo: Animación sobre el calentamiento para escalar: un escalador 
 
 ## TikTok
 ```
-Calentamiento para escalar en siete pasos 🔥
-Movimientos fáciles, movilidad, dominadas y colgarte con los pies en el suelo, gestos rápidos, bloques de menos a más, hombros y escápulas, y tronco.
+¿Calientas con dos bloques fáciles y ya? Te faltan seis pasos 🔥
+Calentamiento para escalar de Eric Hörst: de menos a más, con dedos, potencia, hombros y tronco.
 ¿Cómo calientas tú? Cuéntanoslo en los comentarios 👇
 📚 Eric Hörst (Training for Climbing), Sas-Nowosielski 2020
+Voz y música generadas con IA.
 #escalada #calentamientoescalada #entrenamientoescalada
 ```
-Título (Metricool): Calentamiento para escalar en siete pasos
+Título (Metricool): ¿Calientas con dos bloques fáciles y ya? Te faltan seis pasos
 
 ## YouTube
 Título:
 ```
-Calentamiento para escalar: los 7 pasos de Eric Hörst
+Cómo calentar antes de escalar: 7 pasos de Eric Hörst
 ```
 Descripción:
 ```
@@ -56,6 +59,7 @@ Calentamiento para escalar en siete pasos, según el entrenador Eric Hörst. Uno
 ¿Tú haces los siete o te saltas alguno?
 
 Fuentes: Eric J. Hörst, podcast Training for Climbing n.º 67 (2021) y entrevista con Jared Vagy (2022); Lattice Training; ClimbStrong; Sas-Nowosielski y Kandzia (2020, Frontiers in Psychology), una muestra pequeña de escaladores avanzados que mide potencia, no lesiones.
+Voz y música generadas con IA.
 Más escalada explicada con ciencia en el canal.
 #escalada #entrenamientoescalada
 ```
