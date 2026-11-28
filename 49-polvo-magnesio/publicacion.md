@@ -6,7 +6,7 @@
 
 ## Instagram
 ```
-¿Usas bola de magnesio para no hacer polvo? La bola casi no lo baja; el magnesio líquido sí 🧂
+¿Usas bola de magnesio? Casi no baja el polvo, y ese polvo te lo respiras. El magnesio líquido sí lo baja 🧂
 En horas punta, un rocódromo puede tener hasta cuarenta veces más polvo en el aire que un pabellón. Lo midieron en Alemania: con bola, el polvo no bajó de forma clara; con magnesio líquido, quedó casi como prohibir el polvo.
 Y después de escalar, los pulmones rinden un poco menos, hasta un día.
 Magnesio líquido al empezar y deja que se seque; si usas polvo, poco y dentro de la bolsa. Y si tienes asma, ve a horas con menos gente.

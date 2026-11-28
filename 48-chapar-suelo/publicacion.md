@@ -1,13 +1,13 @@
 # Reel 48 · Chapar en escalada: dónde te caes al suelo
 
 - Palabra clave principal: **chapar en escalada** · secundaria: **caída al suelo escalando de primero**
-- Archivo: `chapar-en-escalada-caidas-al-suelo.mp4` · Portada: el escalador estirado chapando y la cuerda floja en rojo, con «¿CHAPAS ESTIRADO?».
+- Archivo: `chapar-en-escalada-caidas-al-suelo.mp4` · Portada: el escalador estirado chapando y la cuerda floja en rojo, con «8 DE 11 CHAPANDO».
 - Variable R4: `cifra_antes_6s: true` («8 de 11»).
 - Tema de seguridad: lo lee Javi antes de la voz.
 
 ## Instagram
 ```
-¿Chapas con el brazo estirado? Chapar en escalada es el momento en que más gente llega al suelo 🧗⚠️
+¿Sabías que 8 de cada 11 caídas al suelo de primero fueron chapando? Chapar en escalada: ojo a ese momento 🧗⚠️
 Ocho de once caídas al suelo escalando de primero fueron chapando, en rocódromos de Alemania y Austria. Y no en las primeras chapas: entre la quinta y la séptima.
 Si te caes con la cuerda en la mano, esa cuerda se suma a tu caída. Si puedes, chapa con la cinta delante del pecho y desde un buen canto, con los pies bien puestos.
 Y lo más importante: en la mitad de esas caídas, quien aseguraba falló o se despistó. Mientras chapas, que te mire y te dé cuerda rápido.
